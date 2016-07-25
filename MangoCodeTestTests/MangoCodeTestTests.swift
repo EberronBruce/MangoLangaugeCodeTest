@@ -24,6 +24,25 @@ class MangoCodeTestTests: XCTestCase {
     func testExample() {
         // This is an example of a functional test case.
         // Use XCTAssert and related functions to verify your tests produce the correct results.
+        
+        let cal = CalculateDepend()
+        let a = A()
+        let b = B()
+        let c = C()
+        let d = D()
+        let e = E()
+        let f = F()
+        let g = G()
+        let h = H()
+        
+        XCTAssertEqual(cal.retrieveDependenciesOfDependencyClass(a), ["B","C","E","F","G","H"])
+        XCTAssertEqual(cal.retrieveDependenciesOfDependencyClass(b), ["C","E","F","G","H"])
+        XCTAssertEqual(cal.retrieveDependenciesOfDependencyClass(c), ["G"])
+        XCTAssertEqual(cal.retrieveDependenciesOfDependencyClass(d), ["A","B","C","E","F","G","H"])
+        XCTAssertEqual(cal.retrieveDependenciesOfDependencyClass(e), ["F","H"])
+        XCTAssertEqual(cal.retrieveDependenciesOfDependencyClass(f), ["H"])
+        XCTAssertEqual(cal.retrieveDependenciesOfDependencyClass(g), [])
+        XCTAssertEqual(cal.retrieveDependenciesOfDependencyClass(h), [])
     }
     
     func testPerformanceExample() {

@@ -14,6 +14,42 @@
 		7A79A0F21D467651003CB25E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7A79A0F01D467651003CB25E /* LaunchScreen.storyboard */; };
 		7A79A0FD1D467651003CB25E /* MangoCodeTestTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A79A0FC1D467651003CB25E /* MangoCodeTestTests.swift */; };
 		7A79A1081D467651003CB25E /* MangoCodeTestUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A79A1071D467651003CB25E /* MangoCodeTestUITests.swift */; };
+		7A79A1191D467D4E003CB25E /* A.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A79A1181D467D4E003CB25E /* A.swift */; };
+		7A79A11A1D467D4E003CB25E /* A.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A79A1181D467D4E003CB25E /* A.swift */; };
+		7A79A11B1D467D4E003CB25E /* A.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A79A1181D467D4E003CB25E /* A.swift */; };
+		7A79A11D1D467D61003CB25E /* B.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A79A11C1D467D61003CB25E /* B.swift */; };
+		7A79A11E1D467D61003CB25E /* B.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A79A11C1D467D61003CB25E /* B.swift */; };
+		7A79A11F1D467D61003CB25E /* B.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A79A11C1D467D61003CB25E /* B.swift */; };
+		7A79A1211D467D75003CB25E /* C.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A79A1201D467D75003CB25E /* C.swift */; };
+		7A79A1221D467D75003CB25E /* C.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A79A1201D467D75003CB25E /* C.swift */; };
+		7A79A1231D467D75003CB25E /* C.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A79A1201D467D75003CB25E /* C.swift */; };
+		7A79A1251D467D8B003CB25E /* D.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A79A1241D467D8B003CB25E /* D.swift */; };
+		7A79A1261D467D8B003CB25E /* D.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A79A1241D467D8B003CB25E /* D.swift */; };
+		7A79A1271D467D8B003CB25E /* D.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A79A1241D467D8B003CB25E /* D.swift */; };
+		7A79A1291D467D98003CB25E /* E.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A79A1281D467D98003CB25E /* E.swift */; };
+		7A79A12A1D467D98003CB25E /* E.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A79A1281D467D98003CB25E /* E.swift */; };
+		7A79A12B1D467D98003CB25E /* E.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A79A1281D467D98003CB25E /* E.swift */; };
+		7A79A12D1D467DAE003CB25E /* F.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A79A12C1D467DAE003CB25E /* F.swift */; };
+		7A79A12E1D467DAE003CB25E /* F.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A79A12C1D467DAE003CB25E /* F.swift */; };
+		7A79A12F1D467DAE003CB25E /* F.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A79A12C1D467DAE003CB25E /* F.swift */; };
+		7A79A1311D467DBD003CB25E /* G.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A79A1301D467DBD003CB25E /* G.swift */; };
+		7A79A1321D467DBD003CB25E /* G.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A79A1301D467DBD003CB25E /* G.swift */; };
+		7A79A1331D467DBD003CB25E /* G.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A79A1301D467DBD003CB25E /* G.swift */; };
+		7A79A1351D467DD3003CB25E /* H.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A79A1341D467DD3003CB25E /* H.swift */; };
+		7A79A1361D467DD3003CB25E /* H.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A79A1341D467DD3003CB25E /* H.swift */; };
+		7A79A1371D467DD3003CB25E /* H.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A79A1341D467DD3003CB25E /* H.swift */; };
+		7A79A13D1D468271003CB25E /* DependProtocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A79A13C1D468271003CB25E /* DependProtocol.swift */; };
+		7A79A13E1D468271003CB25E /* DependProtocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A79A13C1D468271003CB25E /* DependProtocol.swift */; };
+		7A79A13F1D468271003CB25E /* DependProtocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A79A13C1D468271003CB25E /* DependProtocol.swift */; };
+		7A79A1421D4683C9003CB25E /* Dependency.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A79A1411D4683C9003CB25E /* Dependency.swift */; };
+		7A79A1431D4683C9003CB25E /* Dependency.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A79A1411D4683C9003CB25E /* Dependency.swift */; };
+		7A79A1441D4683C9003CB25E /* Dependency.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A79A1411D4683C9003CB25E /* Dependency.swift */; };
+		7A79A14A1D4690CA003CB25E /* CalculateDepend.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A79A1491D4690CA003CB25E /* CalculateDepend.swift */; };
+		7A79A14B1D4690CA003CB25E /* CalculateDepend.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A79A1491D4690CA003CB25E /* CalculateDepend.swift */; };
+		7A79A14C1D4690CA003CB25E /* CalculateDepend.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A79A1491D4690CA003CB25E /* CalculateDepend.swift */; };
+		7A79A14F1D46C56B003CB25E /* SwiftyAccordionCells.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A79A14E1D46C56B003CB25E /* SwiftyAccordionCells.swift */; };
+		7A79A1501D46C56B003CB25E /* SwiftyAccordionCells.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A79A14E1D46C56B003CB25E /* SwiftyAccordionCells.swift */; };
+		7A79A1511D46C56B003CB25E /* SwiftyAccordionCells.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A79A14E1D46C56B003CB25E /* SwiftyAccordionCells.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +83,18 @@
 		7A79A1031D467651003CB25E /* MangoCodeTestUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MangoCodeTestUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		7A79A1071D467651003CB25E /* MangoCodeTestUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MangoCodeTestUITests.swift; sourceTree = "<group>"; };
 		7A79A1091D467651003CB25E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7A79A1181D467D4E003CB25E /* A.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = A.swift; sourceTree = "<group>"; };
+		7A79A11C1D467D61003CB25E /* B.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = B.swift; sourceTree = "<group>"; };
+		7A79A1201D467D75003CB25E /* C.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = C.swift; sourceTree = "<group>"; };
+		7A79A1241D467D8B003CB25E /* D.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = D.swift; sourceTree = "<group>"; };
+		7A79A1281D467D98003CB25E /* E.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = E.swift; sourceTree = "<group>"; };
+		7A79A12C1D467DAE003CB25E /* F.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = F.swift; sourceTree = "<group>"; };
+		7A79A1301D467DBD003CB25E /* G.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = G.swift; sourceTree = "<group>"; };
+		7A79A1341D467DD3003CB25E /* H.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = H.swift; sourceTree = "<group>"; };
+		7A79A13C1D468271003CB25E /* DependProtocol.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DependProtocol.swift; sourceTree = "<group>"; };
+		7A79A1411D4683C9003CB25E /* Dependency.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Dependency.swift; sourceTree = "<group>"; };
+		7A79A1491D4690CA003CB25E /* CalculateDepend.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CalculateDepend.swift; sourceTree = "<group>"; };
+		7A79A14E1D46C56B003CB25E /* SwiftyAccordionCells.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SwiftyAccordionCells.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,8 +145,11 @@
 		7A79A0E61D467651003CB25E /* MangoCodeTest */ = {
 			isa = PBXGroup;
 			children = (
+				7A79A14D1D46C552003CB25E /* ThirdParty */,
+				7A79A1481D469068003CB25E /* Controller */,
+				7A79A1471D469061003CB25E /* View */,
+				7A79A1461D46905A003CB25E /* Model */,
 				7A79A0E71D467651003CB25E /* AppDelegate.swift */,
-				7A79A0E91D467651003CB25E /* ViewController.swift */,
 				7A79A0EB1D467651003CB25E /* Main.storyboard */,
 				7A79A0EE1D467651003CB25E /* Assets.xcassets */,
 				7A79A0F01D467651003CB25E /* LaunchScreen.storyboard */,
@@ -123,6 +174,63 @@
 				7A79A1091D467651003CB25E /* Info.plist */,
 			);
 			path = MangoCodeTestUITests;
+			sourceTree = "<group>";
+		};
+		7A79A1151D4676C8003CB25E /* Depend */ = {
+			isa = PBXGroup;
+			children = (
+				7A79A1451D469029003CB25E /* DependClasses */,
+				7A79A13C1D468271003CB25E /* DependProtocol.swift */,
+				7A79A1411D4683C9003CB25E /* Dependency.swift */,
+			);
+			name = Depend;
+			sourceTree = "<group>";
+		};
+		7A79A1451D469029003CB25E /* DependClasses */ = {
+			isa = PBXGroup;
+			children = (
+				7A79A1181D467D4E003CB25E /* A.swift */,
+				7A79A11C1D467D61003CB25E /* B.swift */,
+				7A79A1201D467D75003CB25E /* C.swift */,
+				7A79A1241D467D8B003CB25E /* D.swift */,
+				7A79A1281D467D98003CB25E /* E.swift */,
+				7A79A12C1D467DAE003CB25E /* F.swift */,
+				7A79A1301D467DBD003CB25E /* G.swift */,
+				7A79A1341D467DD3003CB25E /* H.swift */,
+			);
+			name = DependClasses;
+			sourceTree = "<group>";
+		};
+		7A79A1461D46905A003CB25E /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				7A79A1151D4676C8003CB25E /* Depend */,
+				7A79A1491D4690CA003CB25E /* CalculateDepend.swift */,
+			);
+			name = Model;
+			sourceTree = "<group>";
+		};
+		7A79A1471D469061003CB25E /* View */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = View;
+			sourceTree = "<group>";
+		};
+		7A79A1481D469068003CB25E /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				7A79A0E91D467651003CB25E /* ViewController.swift */,
+			);
+			name = Controller;
+			sourceTree = "<group>";
+		};
+		7A79A14D1D46C552003CB25E /* ThirdParty */ = {
+			isa = PBXGroup;
+			children = (
+				7A79A14E1D46C56B003CB25E /* SwiftyAccordionCells.swift */,
+			);
+			name = ThirdParty;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -256,7 +364,19 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7A79A12D1D467DAE003CB25E /* F.swift in Sources */,
+				7A79A1251D467D8B003CB25E /* D.swift in Sources */,
+				7A79A14A1D4690CA003CB25E /* CalculateDepend.swift in Sources */,
+				7A79A11D1D467D61003CB25E /* B.swift in Sources */,
+				7A79A1191D467D4E003CB25E /* A.swift in Sources */,
 				7A79A0EA1D467651003CB25E /* ViewController.swift in Sources */,
+				7A79A1291D467D98003CB25E /* E.swift in Sources */,
+				7A79A1421D4683C9003CB25E /* Dependency.swift in Sources */,
+				7A79A14F1D46C56B003CB25E /* SwiftyAccordionCells.swift in Sources */,
+				7A79A1311D467DBD003CB25E /* G.swift in Sources */,
+				7A79A13D1D468271003CB25E /* DependProtocol.swift in Sources */,
+				7A79A1211D467D75003CB25E /* C.swift in Sources */,
+				7A79A1351D467DD3003CB25E /* H.swift in Sources */,
 				7A79A0E81D467651003CB25E /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -265,7 +385,19 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7A79A1361D467DD3003CB25E /* H.swift in Sources */,
+				7A79A12E1D467DAE003CB25E /* F.swift in Sources */,
+				7A79A14B1D4690CA003CB25E /* CalculateDepend.swift in Sources */,
+				7A79A1321D467DBD003CB25E /* G.swift in Sources */,
+				7A79A11E1D467D61003CB25E /* B.swift in Sources */,
+				7A79A1501D46C56B003CB25E /* SwiftyAccordionCells.swift in Sources */,
+				7A79A1221D467D75003CB25E /* C.swift in Sources */,
+				7A79A13E1D468271003CB25E /* DependProtocol.swift in Sources */,
+				7A79A1431D4683C9003CB25E /* Dependency.swift in Sources */,
 				7A79A0FD1D467651003CB25E /* MangoCodeTestTests.swift in Sources */,
+				7A79A12A1D467D98003CB25E /* E.swift in Sources */,
+				7A79A11A1D467D4E003CB25E /* A.swift in Sources */,
+				7A79A1261D467D8B003CB25E /* D.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -273,7 +405,19 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7A79A1371D467DD3003CB25E /* H.swift in Sources */,
+				7A79A12F1D467DAE003CB25E /* F.swift in Sources */,
+				7A79A14C1D4690CA003CB25E /* CalculateDepend.swift in Sources */,
+				7A79A1331D467DBD003CB25E /* G.swift in Sources */,
+				7A79A11F1D467D61003CB25E /* B.swift in Sources */,
+				7A79A1511D46C56B003CB25E /* SwiftyAccordionCells.swift in Sources */,
+				7A79A1231D467D75003CB25E /* C.swift in Sources */,
+				7A79A13F1D468271003CB25E /* DependProtocol.swift in Sources */,
+				7A79A1441D4683C9003CB25E /* Dependency.swift in Sources */,
 				7A79A1081D467651003CB25E /* MangoCodeTestUITests.swift in Sources */,
+				7A79A12B1D467D98003CB25E /* E.swift in Sources */,
+				7A79A11B1D467D4E003CB25E /* A.swift in Sources */,
+				7A79A1271D467D8B003CB25E /* D.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
