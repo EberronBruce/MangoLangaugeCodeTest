@@ -1,0 +1,507 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		7A79A0E81D467651003CB25E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A79A0E71D467651003CB25E /* AppDelegate.swift */; };
+		7A79A0EA1D467651003CB25E /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A79A0E91D467651003CB25E /* ViewController.swift */; };
+		7A79A0ED1D467651003CB25E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7A79A0EB1D467651003CB25E /* Main.storyboard */; };
+		7A79A0EF1D467651003CB25E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7A79A0EE1D467651003CB25E /* Assets.xcassets */; };
+		7A79A0F21D467651003CB25E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7A79A0F01D467651003CB25E /* LaunchScreen.storyboard */; };
+		7A79A0FD1D467651003CB25E /* MangoCodeTestTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A79A0FC1D467651003CB25E /* MangoCodeTestTests.swift */; };
+		7A79A1081D467651003CB25E /* MangoCodeTestUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A79A1071D467651003CB25E /* MangoCodeTestUITests.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		7A79A0F91D467651003CB25E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 7A79A0DC1D467651003CB25E /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 7A79A0E31D467651003CB25E;
+			remoteInfo = MangoCodeTest;
+		};
+		7A79A1041D467651003CB25E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 7A79A0DC1D467651003CB25E /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 7A79A0E31D467651003CB25E;
+			remoteInfo = MangoCodeTest;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		7A79A0E41D467651003CB25E /* MangoCodeTest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MangoCodeTest.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		7A79A0E71D467651003CB25E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		7A79A0E91D467651003CB25E /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		7A79A0EC1D467651003CB25E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		7A79A0EE1D467651003CB25E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		7A79A0F11D467651003CB25E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		7A79A0F31D467651003CB25E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7A79A0F81D467651003CB25E /* MangoCodeTestTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MangoCodeTestTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		7A79A0FC1D467651003CB25E /* MangoCodeTestTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MangoCodeTestTests.swift; sourceTree = "<group>"; };
+		7A79A0FE1D467651003CB25E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7A79A1031D467651003CB25E /* MangoCodeTestUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MangoCodeTestUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		7A79A1071D467651003CB25E /* MangoCodeTestUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MangoCodeTestUITests.swift; sourceTree = "<group>"; };
+		7A79A1091D467651003CB25E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		7A79A0E11D467651003CB25E /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		7A79A0F51D467651003CB25E /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		7A79A1001D467651003CB25E /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		7A79A0DB1D467651003CB25E = {
+			isa = PBXGroup;
+			children = (
+				7A79A0E61D467651003CB25E /* MangoCodeTest */,
+				7A79A0FB1D467651003CB25E /* MangoCodeTestTests */,
+				7A79A1061D467651003CB25E /* MangoCodeTestUITests */,
+				7A79A0E51D467651003CB25E /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		7A79A0E51D467651003CB25E /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				7A79A0E41D467651003CB25E /* MangoCodeTest.app */,
+				7A79A0F81D467651003CB25E /* MangoCodeTestTests.xctest */,
+				7A79A1031D467651003CB25E /* MangoCodeTestUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		7A79A0E61D467651003CB25E /* MangoCodeTest */ = {
+			isa = PBXGroup;
+			children = (
+				7A79A0E71D467651003CB25E /* AppDelegate.swift */,
+				7A79A0E91D467651003CB25E /* ViewController.swift */,
+				7A79A0EB1D467651003CB25E /* Main.storyboard */,
+				7A79A0EE1D467651003CB25E /* Assets.xcassets */,
+				7A79A0F01D467651003CB25E /* LaunchScreen.storyboard */,
+				7A79A0F31D467651003CB25E /* Info.plist */,
+			);
+			path = MangoCodeTest;
+			sourceTree = "<group>";
+		};
+		7A79A0FB1D467651003CB25E /* MangoCodeTestTests */ = {
+			isa = PBXGroup;
+			children = (
+				7A79A0FC1D467651003CB25E /* MangoCodeTestTests.swift */,
+				7A79A0FE1D467651003CB25E /* Info.plist */,
+			);
+			path = MangoCodeTestTests;
+			sourceTree = "<group>";
+		};
+		7A79A1061D467651003CB25E /* MangoCodeTestUITests */ = {
+			isa = PBXGroup;
+			children = (
+				7A79A1071D467651003CB25E /* MangoCodeTestUITests.swift */,
+				7A79A1091D467651003CB25E /* Info.plist */,
+			);
+			path = MangoCodeTestUITests;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		7A79A0E31D467651003CB25E /* MangoCodeTest */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 7A79A10C1D467651003CB25E /* Build configuration list for PBXNativeTarget "MangoCodeTest" */;
+			buildPhases = (
+				7A79A0E01D467651003CB25E /* Sources */,
+				7A79A0E11D467651003CB25E /* Frameworks */,
+				7A79A0E21D467651003CB25E /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = MangoCodeTest;
+			productName = MangoCodeTest;
+			productReference = 7A79A0E41D467651003CB25E /* MangoCodeTest.app */;
+			productType = "com.apple.product-type.application";
+		};
+		7A79A0F71D467651003CB25E /* MangoCodeTestTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 7A79A10F1D467651003CB25E /* Build configuration list for PBXNativeTarget "MangoCodeTestTests" */;
+			buildPhases = (
+				7A79A0F41D467651003CB25E /* Sources */,
+				7A79A0F51D467651003CB25E /* Frameworks */,
+				7A79A0F61D467651003CB25E /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				7A79A0FA1D467651003CB25E /* PBXTargetDependency */,
+			);
+			name = MangoCodeTestTests;
+			productName = MangoCodeTestTests;
+			productReference = 7A79A0F81D467651003CB25E /* MangoCodeTestTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		7A79A1021D467651003CB25E /* MangoCodeTestUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 7A79A1121D467651003CB25E /* Build configuration list for PBXNativeTarget "MangoCodeTestUITests" */;
+			buildPhases = (
+				7A79A0FF1D467651003CB25E /* Sources */,
+				7A79A1001D467651003CB25E /* Frameworks */,
+				7A79A1011D467651003CB25E /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				7A79A1051D467651003CB25E /* PBXTargetDependency */,
+			);
+			name = MangoCodeTestUITests;
+			productName = MangoCodeTestUITests;
+			productReference = 7A79A1031D467651003CB25E /* MangoCodeTestUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		7A79A0DC1D467651003CB25E /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0730;
+				LastUpgradeCheck = 0730;
+				ORGANIZATIONNAME = "Red Raven Computing Studios";
+				TargetAttributes = {
+					7A79A0E31D467651003CB25E = {
+						CreatedOnToolsVersion = 7.3.1;
+					};
+					7A79A0F71D467651003CB25E = {
+						CreatedOnToolsVersion = 7.3.1;
+						TestTargetID = 7A79A0E31D467651003CB25E;
+					};
+					7A79A1021D467651003CB25E = {
+						CreatedOnToolsVersion = 7.3.1;
+						TestTargetID = 7A79A0E31D467651003CB25E;
+					};
+				};
+			};
+			buildConfigurationList = 7A79A0DF1D467651003CB25E /* Build configuration list for PBXProject "MangoCodeTest" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 7A79A0DB1D467651003CB25E;
+			productRefGroup = 7A79A0E51D467651003CB25E /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				7A79A0E31D467651003CB25E /* MangoCodeTest */,
+				7A79A0F71D467651003CB25E /* MangoCodeTestTests */,
+				7A79A1021D467651003CB25E /* MangoCodeTestUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		7A79A0E21D467651003CB25E /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				7A79A0F21D467651003CB25E /* LaunchScreen.storyboard in Resources */,
+				7A79A0EF1D467651003CB25E /* Assets.xcassets in Resources */,
+				7A79A0ED1D467651003CB25E /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		7A79A0F61D467651003CB25E /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		7A79A1011D467651003CB25E /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		7A79A0E01D467651003CB25E /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				7A79A0EA1D467651003CB25E /* ViewController.swift in Sources */,
+				7A79A0E81D467651003CB25E /* AppDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		7A79A0F41D467651003CB25E /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				7A79A0FD1D467651003CB25E /* MangoCodeTestTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		7A79A0FF1D467651003CB25E /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				7A79A1081D467651003CB25E /* MangoCodeTestUITests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		7A79A0FA1D467651003CB25E /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 7A79A0E31D467651003CB25E /* MangoCodeTest */;
+			targetProxy = 7A79A0F91D467651003CB25E /* PBXContainerItemProxy */;
+		};
+		7A79A1051D467651003CB25E /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 7A79A0E31D467651003CB25E /* MangoCodeTest */;
+			targetProxy = 7A79A1041D467651003CB25E /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		7A79A0EB1D467651003CB25E /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				7A79A0EC1D467651003CB25E /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		7A79A0F01D467651003CB25E /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				7A79A0F11D467651003CB25E /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		7A79A10A1D467651003CB25E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		7A79A10B1D467651003CB25E /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		7A79A10D1D467651003CB25E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = MangoCodeTest/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.redravencomputing.MangoCodeTest;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		7A79A10E1D467651003CB25E /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = MangoCodeTest/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.redravencomputing.MangoCodeTest;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		7A79A1101D467651003CB25E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				INFOPLIST_FILE = MangoCodeTestTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.redravencomputing.MangoCodeTestTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/MangoCodeTest.app/MangoCodeTest";
+			};
+			name = Debug;
+		};
+		7A79A1111D467651003CB25E /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				INFOPLIST_FILE = MangoCodeTestTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.redravencomputing.MangoCodeTestTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/MangoCodeTest.app/MangoCodeTest";
+			};
+			name = Release;
+		};
+		7A79A1131D467651003CB25E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				INFOPLIST_FILE = MangoCodeTestUITests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.redravencomputing.MangoCodeTestUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_TARGET_NAME = MangoCodeTest;
+			};
+			name = Debug;
+		};
+		7A79A1141D467651003CB25E /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				INFOPLIST_FILE = MangoCodeTestUITests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.redravencomputing.MangoCodeTestUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_TARGET_NAME = MangoCodeTest;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		7A79A0DF1D467651003CB25E /* Build configuration list for PBXProject "MangoCodeTest" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				7A79A10A1D467651003CB25E /* Debug */,
+				7A79A10B1D467651003CB25E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		7A79A10C1D467651003CB25E /* Build configuration list for PBXNativeTarget "MangoCodeTest" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				7A79A10D1D467651003CB25E /* Debug */,
+				7A79A10E1D467651003CB25E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		7A79A10F1D467651003CB25E /* Build configuration list for PBXNativeTarget "MangoCodeTestTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				7A79A1101D467651003CB25E /* Debug */,
+				7A79A1111D467651003CB25E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		7A79A1121D467651003CB25E /* Build configuration list for PBXNativeTarget "MangoCodeTestUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				7A79A1131D467651003CB25E /* Debug */,
+				7A79A1141D467651003CB25E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 7A79A0DC1D467651003CB25E /* Project object */;
+}
